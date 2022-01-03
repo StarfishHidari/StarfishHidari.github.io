@@ -1,2 +1,0 @@
-# StarfishHidari.github.io
-aaaaaaaaaaaaaa
