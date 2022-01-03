@@ -1,23 +1,23 @@
 {
-    "site": "https://hidi.tk",
-    "name": "Hidi",
-    "image": "https://hidi.tk/images/gromit.jpg",
-    "birthday": "1999-05-20",
-    "pronouns": "she/her",
-    "people": [
+    "site":"https://hidi.tk",
+    "name":"Hidi",
+    "image":"https://hidi.tk/images/gromit.jpg",
+    "birthday":"1999-05-20",
+    "pronouns":"she/her",
+    "people":[
         "jeana.xyz",
         "rep-tiled.tk",
         "psychpsyo.tk"
     ],
-    "extensions": {
-        "socialMedia" : {
-            "name": "Hidi",
-            "link": "https://twitter.com/queenhidari",
-            "handle": "queenhidari"
+    "extensions":{
+        "socialMedia":{
+            "name":"Hidi",
+            "link":"https://twitter.com/queenhidari",
+            "handle":"queenhidari"
         },
-        "neos": {
-            "name": "QueenHidi",
-            "userID": "U-QueenHidi"
+        "neos":{
+            "name":"QueenHidi",
+            "userID":"U-QueenHidi"
         }
     }
 }
